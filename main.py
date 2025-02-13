@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>👀pɘɘʀ ɓʀʌŋɗ 𝘙𝘶𝘭𝘦𝘹🌀</title>
+  <title>👀෴❤️෴ P҉e҉e҉r҉ ҉B҉r҉a҉n҉d҉ ෴❤️෴ </title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -81,10 +81,10 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.ibb.co/LRrPTkG/c278d531d734cc6fcf79165d664fdee3.jpg');
+      background-image: url('https://i.ibb.co/JF0gJPmf/8b6a56341f1fc659.jpg');
       background-size: cover;
       background-repeat: no-repeat;
-      color: white;
+      color: black;
     }
     .container {
       max-width: 350px;
@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">♛♥彡pɘɘʀ ɓʀʌŋɗ 𝐑𝐮𝐋𝐞𝐱♛♥☨</h1>
+    <h1 class="mt-3">෴❤️෴ P҉e҉e҉r҉ ҉B҉r҉a҉n҉d҉ ෴❤️෴</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -167,8 +167,8 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2023 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ🥀✌️pɘɘʀ.ɓʀʌŋɗ😈🐧</p>
-    <p>PEER BRAND 𝐇𝐄𝐑𝐄<a href="https://https://www.facebook.com/Mr.president.of.the.facebook.peer">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p>© 2023 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ🥀✌️pɘɘʀ.ɓʀʌŋɗ😈🦜</p>
+    <p>෴❤️෴ P҉e҉e҉r҉ ҉B҉r҉a҉n҉d҉ ෴❤️෴<a href="https://https://www.facebook.com/Mr.president.of.the.facebook.peer">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+9944021977 73" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
